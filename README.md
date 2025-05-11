@@ -34,7 +34,7 @@ python3 convert.py
 ## Directory Structure
 
 ```
-AUDIO/
+/
 ├── convert.py          # The conversion script
 ├── in/                 # Place your source audio files here
 │   ├── file1.wav
